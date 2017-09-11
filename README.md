@@ -56,3 +56,15 @@ Not only could websites monetise their customer base more effectively, but speci
   Under our current API model, we store prompt images and solutions together, server-side, in a relational SQL database. Although certain information is passed to the client upon creation of each individual captcha, the solution to the puzzle never leaves the server. Upon completion of the minigame, the user response is sent back to the server, where it is compared to the stored sample solution. A correct comparison prompts a `true` response to be sent back to the client. This clears the user as Human.
   
   For the captcha to become truly secure, there would need to be a much larger sample of prompt, decoy and solution images. This might pose a problem for the marketability of the product as lasting impressions tend to require repition of the message. Repetitive captcha input, however, would mean predictable outcomes which would be detrimental to the security of the product. Further work in this area is needed.
+  
+  
+  ## Screen Shots
+  
+  ### Drage & Drop
+  
+  #### Confirmed
+  
+  [Imgur](https://i.imgur.com/LBcLQQF.gifv)  
+  
+  #### Area Click
+  [Imgur](https://i.imgur.com/EZRGxcD.gifv)
