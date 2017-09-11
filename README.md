@@ -64,9 +64,4 @@ Not only could websites monetise their customer base more effectively, but speci
   
   #### Confirmed
   
-  <a href="https://imgur.com/LBcLQQF"><img src="https://i.imgur.com/LBcLQQF.gif" title="source: imgur.com" /></a>  
-  
-  #### Area Click
-  
-  <a href="https://imgur.com/EZRGxcD"><img src="https://i.imgur.com/EZRGxcD.gif" title="source: imgur.com" /></a>  
-
+  <a href="https://imgur.com/LBcLQQF"><img src="https://i.imgur.com/LBcLQQF.gif" title="source: imgur.com" /></a> 
